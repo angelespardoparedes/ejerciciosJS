@@ -1,0 +1,11 @@
+.planet {
+    margin: 10px; /* Agregar un margen inferior a los planetas */
+  }
+  
+  .character {
+    margin:5px; /* Agregar un margen inferior a los personajes */
+  }
+  
+  .description {
+    margin:5px; /* Agregar un margen superior a las descripciones */
+  }
